@@ -11,7 +11,7 @@
 🤯 I am currently having _Specialization_ in **Deep Learning**<br>
 🙌 Looking forward to work together with 
 <a href="https://github.com/ShishirShekhar">Shishir Shekhar<a>,
-<a href="https://github.com/salvi-siddhi333">Siddhi salvi<a>,
+<a href="https://github.com/salvi-siddhi333">Siddhi Salvi<a>,
 <a href="https://github.com/BlackShadow18">Tejal R K<a>,
 <a href="https://github.com/riishiiiii">Rishi Pandey<a>,
 <a href="https://github.com/km-07">Khushal Mehotra<a>,
