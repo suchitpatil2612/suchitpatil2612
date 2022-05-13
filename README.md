@@ -8,25 +8,6 @@
 <br>
 
 🔬 I am currently working on project<br>
-🤯 I am currently having _Specialization_ in **Deep Learning**<br>
-🙌 Looking forward to work together with 
-<a href="https://github.com/ShishirShekhar">Shishir Shekhar<a>,
-<a href="https://github.com/salvi-siddhi333">Siddhi Salvi<a>,
-<a href="https://github.com/BlackShadow18">Tejal R K<a>,
-<a href="https://github.com/riishiiiii">Rishi Pandey<a>,
-<a href="https://github.com/km-07">Khushal Mehotra<a>,
-<a href="https://github.com/PavanKhotS17">PavanKumar Khot<a>,
-<a href="https://github.com/darker-123">Pratik Bhehuria<a>,
-<a href="https://github.com/janvi191">Janvi Prajapati</a>,
-<a href="https://github.com/JanhviBhute">Janhvi Bhute</a>,
-<a href="https://github.com/Kharanshu94">Kharanshu Parekh</a>,
-<a href="https://github.com/lakshmivanacharla">Lakshmi Vanacharla</a>,
-<a href="https://github.com/Manavparmar06">Manav Parmar</a>,
-<a href="https://github.com/romaanchak-Rishabh">Rishabh Tater</a>,
-<a href="https://github.com/Simran980">Simran Rajput</a>,
-<a href="https://github.com/SoumyajitC24">Soumyajit Chakraborty</a>,
-<a href="https://github.com/biyatra13">Biyatra Ghosh</a>
-<br>
 ⚡ Fun Fact: Perfect day 🌞 would **start** with _ANALYSIS_ 📊 and **end** with _PERFECT DECISION_ 💡
 
 <br>
